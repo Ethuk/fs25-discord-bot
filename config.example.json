@@ -1,13 +1,13 @@
 {
   "application": {
     "serverPassword": "TypeMyServerPasswordHere",
-    "serverStatsUrl": "http://1.1.1.1:8080/feed/dedicated-server-stats.xml",
-    "serverMapUrl": "http://1.1.1.1:8080/feed/dedicated-server-stats-map.jpg",
+    "serverStatsUrl": "http://45.141.122.148:8620/feed/dedicated-server-stats.xml?code=6SE9KfKJhlYH8Le7",
+    "serverMapUrl": "http://45.141.122.148:8620/feed/dedicated-server-stats-map.jpg?code=6SE9KfKJhlYH8Le7&quality=60&size=512",
     "updateIntervalSeconds": 30
   },
   "discord": {
-    "guildId": "DiscordServerId_12345",
-    "channelId": "DiscordChannelId_12345",
-    "botToken": "DiscordSecretBotToken_XYZ"
+    "guildId": "1150396468805500948",
+    "channelId": "1305749934510706778",
+    "botToken": "MTI1NTU5OTEzMzY2Njk3MTc0OA.GsgW-B.C2yWMpn1jObnGYp8IicPbpAq4Kepj4OoqA1mCc"
   }
 }
